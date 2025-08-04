@@ -3,7 +3,7 @@
 import cv2
 import pytesseract
 
-pytesseract.pytesseract.tesseract_cmd = r"C:\Python_Libraries\tesseract.exe"
+pytesseract.pytesseract.tesseract_cmd = r"<tesseract path here>"
 
 def extract_text_from_image_cv2(image) -> str:
     if image is None:
