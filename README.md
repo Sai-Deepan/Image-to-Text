@@ -7,13 +7,13 @@ A lightweight Flask web application that takes an image input, extracts text usi
 
 Use case:
 
-Document Digitization & Legals – Scan old paper docs, contracts, bills and turn into searchable archives.
-Banking, Insurance & ID Verification – Extract details from cheques, claims, KYCs, passports, Aadhaar for instant verification and auto-form filling.
-Healthcare – Pull patient details from prescriptions, lab reports → Check out MediBridge its built on that Concept
-Education – Extract questions from scanned exams, digitize textbooks for accessibility.
-Invoice & Receipt Processing – Automatically extract totals, taxes, vendor names and pipe into accounting software.
-Business Intelligence – Process shipment docs, contracts, handwritten notes for analysis.
-Data Entry Automation – Kill manual typing jobs; feed scanned forms into databases.
+*Document Digitization & Legals – Scan old paper docs, contracts, bills and turn into searchable archives.
+*Banking, Insurance & ID Verification – Extract details from cheques, claims, KYCs, passports, Aadhaar for instant verification and auto-form filling.
+*Healthcare – Pull patient details from prescriptions, lab reports → Check out MediBridge its built on that Concept
+*Education – Extract questions from scanned exams, digitize textbooks for accessibility.
+*Invoice & Receipt Processing – Automatically extract totals, taxes, vendor names and pipe into accounting software.
+*Business Intelligence – Process shipment docs, contracts, handwritten notes for analysis.
+*Data Entry Automation – Kill manual typing jobs; feed scanned forms into databases.
 
 ---
 step1: Run app.py and get yourself the link to webpage 
@@ -31,4 +31,5 @@ step3: click the Upload button
 step4: Extracted Text will be displayed
 
 <img width="1636" height="856" alt="Screenshot 2025-08-04 212622" src="https://github.com/user-attachments/assets/13af5043-bff4-40c5-8156-33d7e88c6e80" />
+
 
