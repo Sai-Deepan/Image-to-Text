@@ -1,11 +1,11 @@
-## Image-to-text with OCR
+### Image-to-text with OCR
 ---
 
 A lightweight Flask web application that takes an image input, extracts text using Tesseract OCR, and displays it instantly
 
 ---
 
-Use case:
+## Use Cases:
 
 * Document Digitization & Legals – Scan old paper docs, contracts, bills and turn into searchable archives.
 * Banking, Insurance & ID Verification – Extract details from cheques, claims, KYCs, passports, Aadhaar for instant verification and auto-form filling.
@@ -16,6 +16,7 @@ Use case:
 * Data Entry Automation – Kill manual typing jobs; feed scanned forms into databases.
 
 ---
+
 step1: Run app.py and get yourself the link to webpage 
 
 <img width="1957" height="335" alt="Screenshot 2025-08-04 212513" src="https://github.com/user-attachments/assets/965dfc9b-d1c9-4a04-b220-0bb9ee54b4c0" />
@@ -31,6 +32,4 @@ step3: click the Upload button
 step4: Extracted Text will be displayed
 
 <img width="1636" height="856" alt="Screenshot 2025-08-04 212622" src="https://github.com/user-attachments/assets/13af5043-bff4-40c5-8156-33d7e88c6e80" />
-
-
 
