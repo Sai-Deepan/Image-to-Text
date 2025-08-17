@@ -1,4 +1,9 @@
+## Image-to-text with OCR
+---
+
 A lightweight Flask web application that takes an image input, extracts text using Tesseract OCR, and displays it instantly
+
+---
 
 Use case:
 extract raw text instantly from image
@@ -18,4 +23,3 @@ step3: click the Upload button
 step4: Extracted Text will be displayed
 
 <img width="1636" height="856" alt="Screenshot 2025-08-04 212622" src="https://github.com/user-attachments/assets/13af5043-bff4-40c5-8156-33d7e88c6e80" />
-
